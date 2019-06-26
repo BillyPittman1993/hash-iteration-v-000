@@ -9,3 +9,5 @@ def birthday_message(birthday_kids)
     puts "Happy Birthday #{kid}, you are turning #{age} today!"
   end
 end
+
+puts birthday_message(birthday_kids)
