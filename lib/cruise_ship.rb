@@ -7,5 +7,7 @@
  }
 
 def select_winner(passengers)
-  
+  passengers.select do |suite, name|
+    
+  end
 end
