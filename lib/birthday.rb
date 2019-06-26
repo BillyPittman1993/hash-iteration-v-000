@@ -5,5 +5,7 @@
  }
 
 def birthday_message(birthday_kids)
-  birthday_kids.each do |kid| 
-    puts "Happy Birthday #{kid}, "
+  birthday_kids.each do |kid, age| 
+    puts "Happy Birthday #{kid}, you are turning #{age} today!"
+  end
+end
