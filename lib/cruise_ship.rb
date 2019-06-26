@@ -6,4 +6,6 @@
  suite_e: "Crumpet the Elf"
  }
 
-def select_winner
+def select_winner(passengers)
+  
+end
